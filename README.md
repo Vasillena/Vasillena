@@ -1,4 +1,4 @@
-[![MasterHead](https://s5.gifyu.com/images/Screenshot1-2022-09-23-at-20.01eb0bb7041605e062.png)](https://vasillena.io)
+[![MasterHead](https://s4.gifyu.com/images/Screenshot1-2022-09-23-at-20.01.png)](https://vasillena.io)
 <h1 align="center">Hi 🐱, I'm Vasilena</h1>
 <h3 align="center">Finding passion in software engineering</h3>
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif">
