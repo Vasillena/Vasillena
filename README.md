@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 🐱, I'm Vasilena</h1>
+<h3 align="center">Finding passion in software engineering</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif">
 
-<!--
-**Vasillena/Vasillena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **homeworks 😅**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **vassito@abv.bg**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/vasileva yoneva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vasileva yoneva" height="30" width="40" /></a>
+<a href="https://instagram.com/____vasilena____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____vasilena____" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
