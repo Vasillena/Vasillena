@@ -1,7 +1,7 @@
 [![MasterHead](https://s4.gifyu.com/images/Screenshot1-2022-09-23-at-20.01.png)](https://vasillena.io)
 <h1 align="center">Hi 🐱, I'm Vasilena</h1>
 <h3 align="center">Finding passion in software engineering</h3>
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif">
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 
 - 🔭 I’m currently working on **homeworks 😅**
 
@@ -21,4 +21,3 @@
 
 <h3 align="left">My contribution graph get eaten by the snake 🐍:</h3>
 <img align="center" alt="snake" src="https://github.com/Vasillena/Vasillena/blob/output/github-contribution-grid-snake.svg">
-
