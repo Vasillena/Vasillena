@@ -20,5 +20,5 @@
 </p>
 
 <h3 align="left">Snaky:</h3>
-![snake gif]
-(https://github.com/Vasillena/Vasillena/blob/output/github-contribution-grid-snake.gif)
+<img align="center" alt="snake" src="https://github.com/Vasillena/Vasillena/blob/output/github-contribution-grid-snake.svg">
+
