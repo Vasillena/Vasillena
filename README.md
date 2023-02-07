@@ -3,9 +3,15 @@
 <h3 align="center">Finding passion in software engineering</h3>
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 
-- 🔭 I’m currently working on **homeworks 😅**
+- 🔭 Currently working on homeworks 😅
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 Currently learning JavaScript
+
+- 🎓 Master of Laws
+
+- 🐈 Mother of Cats
+
+- 🎮 I don't need to get a life. I'm a gamer I have lots of lives
 
 - 📫 How to reach me **vassito@abv.bg**
 
@@ -13,6 +19,7 @@
 <p align="left">
 <a href="https://www.facebook.com/vasilena.yoneva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vasileva yoneva" height="30" width="40" /></a>
 <a href="https://instagram.com/____vasilena____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____vasilena____" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vasilena-yoneva-94a475265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vasilena-yoneva-94a475265" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
