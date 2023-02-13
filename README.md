@@ -9,7 +9,13 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Finding passion in software engineering</h3>
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
+<br>
+<div align='center'>
+<img align="center" alt="Coding" width="300" src="https://i.ibb.co/ky74NSn/output-onlinegiftools.gif">
+<br>
+<br>
+<br>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lena!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
