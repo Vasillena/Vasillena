@@ -20,9 +20,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=d137d4&size=30&lines=KEEP+CALM+AND+CODE+ON!;)](https://git.io/typing-svg)
 
- 🔭 Currently working on homeworks 😅
+ 💻 Currently working on homeworks 😅
 
- 🌱 Currently learning JavaScript
+ 🌱 Learning JavaScript
 
  🎓 Master of Laws
 
