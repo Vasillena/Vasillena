@@ -3,6 +3,8 @@
 <h3 align="center">Finding passion in software engineering</h3>
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lena!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+
 - 🔭 Currently working on homeworks 😅
 
 - 🌱 Currently learning JavaScript
