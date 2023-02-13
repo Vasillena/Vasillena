@@ -18,7 +18,7 @@
 </div>
 <div align='center'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=KEEP+CALM+AND+CODE+ON!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=d137d4&size=30&lines=KEEP+CALM+AND+CODE+ON!;)](https://git.io/typing-svg)
 
  🔭 Currently working on homeworks 😅
 
