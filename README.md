@@ -16,6 +16,7 @@
 <br>
 <br>
 </div>
+<div align='center'>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lena!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
@@ -31,23 +32,19 @@
 
 - 📫 How to reach me **vassito@abv.bg**
 
-
-<h3 align="left">Languages and Tools:</h3>
+</div>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <code><img height="30" width="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 </p>
-
-</div>
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
-
 <div align='center'>
-
 <a href="https://ibb.co/Lv5n7WQ"><img src="https://i.ibb.co/qx5kQf0/Work-Wallpaper-Wallpaper-Safari-copy.jpg" alt="Work-Wallpaper-Wallpaper-Safari-copy" border="0" width="1000"></a>
+</div>
