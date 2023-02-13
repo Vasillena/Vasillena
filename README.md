@@ -43,8 +43,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 <div align='center'>
 <a href="https://ibb.co/Lv5n7WQ"><img src="https://i.ibb.co/qx5kQf0/Work-Wallpaper-Wallpaper-Safari-copy.jpg" alt="Work-Wallpaper-Wallpaper-Safari-copy" border="0" width="1000"></a>
 </div>
