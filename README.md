@@ -1,4 +1,4 @@
-[![MasterHead](https://s4.gifyu.com/images/Screenshot1-2022-09-23-at-20.01.png)](https://vasillena.io)
+<!--[![MasterHead](https://s4.gifyu.com/images/Screenshot1-2022-09-23-at-20.01.png)](https://vasillena.io)-->
 <h1 align="center">Hi 🐱, I'm Vasilena
 <p align="center">
 <a href="https://www.facebook.com/vasilena.yoneva" target="blank"><img align="center" alt="Vasilena's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
@@ -8,6 +8,11 @@
 </h1>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align='center'>
+ 
+![Top of pokeball](https://i.ibb.co/XVdmr65/v1.png)
+ <details>
+ <summary>Open profile</summary>
 <h3 align="center">Finding passion in software engineering</h3>
 <br>
 <div align='center'>
@@ -40,9 +45,15 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 </p>
+ 
+  </details>
+ 
+ ![Bottom of pokeball](https://i.ibb.co/7Nwbc0J/v2.png)
+ 
+ </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<div align='center'>
+<!--<div align='center'>
 <a href="https://ibb.co/Lv5n7WQ"><img src="https://i.ibb.co/qx5kQf0/Work-Wallpaper-Wallpaper-Safari-copy.jpg" alt="Work-Wallpaper-Wallpaper-Safari-copy" border="0" width="1000"></a>
-</div>
+</div>-->
