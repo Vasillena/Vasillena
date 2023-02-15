@@ -8,6 +8,7 @@
 </h1>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <div align='center'>
  
 ![Top of pokeball](https://i.ibb.co/XVdmr65/v1.png)
@@ -16,11 +17,15 @@
 <h3 align="center">Finding passion in software engineering</h3>
 <div align='center'>
 <img align="center" alt="Coding" width="300" src="https://i.ibb.co/ky74NSn/output-onlinegiftools.gif">
+<br>
 </div>
 <br>
 <div align='center'>
-
+<br>
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=d137d4&size=30&lines=KEEP+CALM+AND+CODE+ON!;)](https://git.io/typing-svg)
+ 
+ <br>
 
  💻 Currently working on homeworks 😅
 
