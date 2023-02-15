@@ -18,6 +18,7 @@
 <img align="center" alt="Coding" width="300" src="https://i.ibb.co/ky74NSn/output-onlinegiftools.gif">
 </div>
 <div align='center'>
+ <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=d137d4&size=30&lines=KEEP+CALM+AND+CODE+ON!;)](https://git.io/typing-svg)
 
