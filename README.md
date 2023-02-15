@@ -14,12 +14,8 @@
  <details>
  <summary>Open profile</summary>
 <h3 align="center">Finding passion in software engineering</h3>
-<br>
 <div align='center'>
 <img align="center" alt="Coding" width="300" src="https://i.ibb.co/ky74NSn/output-onlinegiftools.gif">
-<br>
-<br>
-<br>
 </div>
 <div align='center'>
 
