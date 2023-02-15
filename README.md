@@ -21,11 +21,8 @@
 </div>
 <br>
 <div align='center'>
-<br>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=d137d4&size=30&lines=KEEP+CALM+AND+CODE+ON!;)](https://git.io/typing-svg)
- 
- <br>
 
  💻 Currently working on homeworks 😅
 
