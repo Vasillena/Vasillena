@@ -4,6 +4,7 @@
 <a href="https://www.facebook.com/vasilena.yoneva" target="blank"><img align="center" alt="Vasilena's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
 <a href="https://instagram.com/____vasilena____" target="blank"><img align="center" alt="Vasilena's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
 <a href="https://www.linkedin.com/in/vasilena-yoneva-94a475265/" target="blank"><img align="center" alt="Vasilena's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
+ 
 </p>
 </h1>
 <br>
@@ -49,10 +50,16 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  
  ![Bottom of pokeball](https://i.ibb.co/7Nwbc0J/v2.png)
  
- </div>
+</div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
+<div align='center'>
+ 
+![](https://komarev.com/ghpvc/?username=Vasillena)
+
+</div>
 <!--<div align='center'>
 <a href="https://ibb.co/Lv5n7WQ"><img src="https://i.ibb.co/qx5kQf0/Work-Wallpaper-Wallpaper-Safari-copy.jpg" alt="Work-Wallpaper-Wallpaper-Safari-copy" border="0" width="1000"></a>
 </div>-->
