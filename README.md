@@ -12,7 +12,7 @@
 <br>
 <div align='center'>
  
-![Top of pokeball](https://i.ibb.co/XVdmr65/v1.png)
+![Top of pokeball](https://i.ibb.co/q1Wg0dB/Up.jpg)
  <details>
  <summary>Open profile</summary>
 <h3 align="center">Finding passion in software engineering</h3>
@@ -49,7 +49,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  
   </details>
  
- ![Bottom of pokeball](https://i.ibb.co/7Nwbc0J/v2.png)
+ ![Bottom of pokeball](https://i.ibb.co/3FdMRHt/Down.jpg)
  
 </div>
 <br>
