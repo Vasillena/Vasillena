@@ -45,6 +45,7 @@
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+ <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 </p>
  
   </details>
