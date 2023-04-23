@@ -15,7 +15,7 @@
 ![Top of pokeball](https://i.ibb.co/q1Wg0dB/Up.jpg)
  <details>
  <summary>Open profile</summary>
-<h3 align="center">Finding passion in software engineering</h3>
+<h3 align="center">Web Developer (in the making)</h3>
 <div align='center'>
 <img align="center" alt="Coding" width="300" src="https://i.ibb.co/f9jmJpt/output-onlinegiftools.gif">
 <br>
