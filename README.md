@@ -52,6 +52,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 📜 Certificates
 
 Programming Basics with C#: https://softuni.bg/certificates/details/64393/3763f7c9
+Programming Fundamentals with JavaScript: https://softuni.bg/Certificates/Details/149668/bb5a0784
+JS Advanced: https://softuni.bg/Certificates/Details/160027/6ea76804
+JS Applications: https://softuni.bg/Certificates/Details/167725/b1a7a071
+JS Back-End: https://softuni.bg/certificates/details/175210/c225fd62
+HTML & CSS: https://softuni.bg/certificates/details/174720/6adad1fd
+React: IN THE MAKING
+Angular: IN THE MAKING
 
 
  
