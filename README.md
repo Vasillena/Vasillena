@@ -33,6 +33,7 @@
  🎓 Master of Laws
 
  🐈 Mother of Cats
+ https://www.tiktok.com/@diego_and_denver?_t=8cmFO2LQeRm&_r=1
 
  🎮 I don't need to get a life. I'm a gamer I have lots of lives
 
