@@ -12,7 +12,7 @@
 <br>
 <div align='center'>
  
-![Top of pokeball](https://i.ibb.co/27DPHrQ/top.jpg)
+![Top of pokeball](https://i.ibb.co/cgyqdbk/top.jpg)
  <details>
  <summary>Open profile</summary>
 <h3 align="center">Web Developer (in the making)</h3>
@@ -75,7 +75,7 @@ Angular: IN THE MAKING
  
   </details>
  
- ![Bottom of pokeball](https://i.ibb.co/rpJptp0/Top.jpg)
+ ![Bottom of pokeball](https://i.ibb.co/JnGWrdV/bottom.jpg)
  
 </div>
 <br>
