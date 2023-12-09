@@ -22,9 +22,6 @@
 </div>
 <br>
 <div align='center'>
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=D137D4&center=true&vCenter=true&width=460&lines=Keep+calm+and+code+on!)](https://git.io/typing-svg)
- 
 
  💻 Currently working on homeworks 😅
 
