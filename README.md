@@ -7,9 +7,9 @@
  
 </p>
 </h1>
-<br>
+<!-- <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<br> -->
 <div align='center'>
  
 ![Top of pokeball](https://i.ibb.co/cgyqdbk/top.jpg)
@@ -17,8 +17,8 @@
  <summary>Open profile</summary>
 <h3 align="center">Web Developer (in the making)</h3>
 <div align='center'>
-<img align="center" alt="Coding" width="300" src="https://i.ibb.co/f9jmJpt/output-onlinegiftools.gif">
-<br>
+<!-- <img align="center" alt="Coding" width="300" src="https://i.ibb.co/f9jmJpt/output-onlinegiftools.gif">
+<br> -->
 </div>
 <br>
 <div align='center'>
@@ -78,9 +78,9 @@ Angular: IN THE MAKING
  ![Bottom of pokeball](https://i.ibb.co/JnGWrdV/bottom.jpg)
  
 </div>
-<br>
+<!-- <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<br> -->
 
 <div align='center'>
  
