@@ -12,7 +12,7 @@
 <br>
 <div align='center'>
  
-![Top of pokeball](https://i.ibb.co/q1Wg0dB/Up.jpg)
+![Top of pokeball](https://i.ibb.co/27DPHrQ/top.jpg)
  <details>
  <summary>Open profile</summary>
 <h3 align="center">Web Developer (in the making)</h3>
