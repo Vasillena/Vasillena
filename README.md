@@ -15,7 +15,7 @@
 ![Top of pokeball](https://i.ibb.co/cgyqdbk/top.jpg)
  <details>
  <summary>Open profile</summary>
-<h3 align="center">Web Developer (in the making)</h3>
+<h3 align="center">Future Web Developer</h3>
 <div align='center'>
 <!-- <img align="center" alt="Coding" width="300" src="https://i.ibb.co/f9jmJpt/output-onlinegiftools.gif">
 <br> -->
@@ -23,13 +23,14 @@
 <br>
 <div align='center'>
 
- 💻 Currently working on homeworks 😅
+ 💻 Coding Wizard in the Making
 
- 🌱 Learning JavaScript
+ 🌱 Eco Living Enthusiast
 
  🎓 Master of Laws
 
  🐈 Mother of Cats
+ <br>
  https://www.tiktok.com/@diego_and_denver?_t=8cmFO2LQeRm&_r=1
 
  🎮 I don't need to get a life. I'm a gamer I have lots of lives
@@ -67,6 +68,12 @@ HTML & CSS: https://softuni.bg/certificates/details/174720/6adad1fd
 React: IN THE MAKING
 <br>
 Angular: IN THE MAKING
+<br>
+
+🧝‍♀️ CV
+
+https://drive.google.com/file/d/1fLHiYE5RoYeTsLyQ5SlNxf334gjRQ3-Q/view?usp=sharing
+<br>
 
 
  
