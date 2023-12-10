@@ -72,7 +72,7 @@ Angular: IN THE MAKING
  
   </details>
  
- ![Bottom of pokeball](https://i.ibb.co/JnGWrdV/bottom.jpg)
+ ![Bottom of pokeball](https://i.ibb.co/PFtR0Hs/bottom.jpg)
  
 </div>
 <!-- <br>
