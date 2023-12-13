@@ -65,7 +65,7 @@ JS Back-End: https://softuni.bg/certificates/details/175210/c225fd62
 <br>
 HTML & CSS: https://softuni.bg/certificates/details/174720/6adad1fd
 <br>
-React: IN THE MAKING
+React: https://softuni.bg/certificates/details/197981/eeb3b0f0
 <br>
 Angular: IN THE MAKING
 <br>
