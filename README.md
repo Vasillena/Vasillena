@@ -69,6 +69,12 @@ React: https://softuni.bg/certificates/details/197981/eeb3b0f0
 <br>
 Angular: IN THE MAKING
 <br>
+Next.js: IN THE MAKING
+<br>
+MySQL: IN THE MAKING
+<br>
+Design Basics: IN THE MAKING
+<br>
 
 🧝‍♀️ CV
 
