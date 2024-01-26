@@ -1,18 +1,26 @@
-<!--[![MasterHead](https://s4.gifyu.com/images/Screenshot1-2022-09-23-at-20.01.png)](https://vasillena.io)-->
-<h1 align="center">Hi 🐱, I'm Lena
+
+
+<!-- align="center">Hi 🐱, I'm Lena -->
 <p align="center">
 <a href="https://www.facebook.com/vasilena.yoneva" target="blank"><img align="center" alt="Vasilena's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
 <a href="https://instagram.com/____vasilena____" target="blank"><img align="center" alt="Vasilena's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
 <a href="https://www.linkedin.com/in/vasilena-yoneva-94a475265/" target="blank"><img align="center" alt="Vasilena's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
- 
 </p>
-</h1>
+
+<div align='center' >
+<img src="https://i.ibb.co/wBx2LVg/Make-your-README-1.png">
+ </div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+
 <!-- <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br> -->
 <div align='center'>
  
-![Top of pokeball](https://i.ibb.co/cgyqdbk/top.jpg)
+<!--![Top of pokeball](https://i.ibb.co/cgyqdbk/top.jpg)-->
  <details>
  <summary>Open profile</summary>
 <h3 align="center">Future Web Developer</h3>
@@ -88,22 +96,22 @@ React: https://softuni.bg/certificates/details/197981/eeb3b0f0
 https://drive.google.com/file/d/1fLHiYE5RoYeTsLyQ5SlNxf334gjRQ3-Q/view?usp=sharing
 <br>
 
+ <div align='center'>
+ 
+![](https://komarev.com/ghpvc/?username=Vasillena)
 
+</div>
  
   </details>
  
- ![Bottom of pokeball](https://i.ibb.co/d7LhqFd/bottom.jpg)
- 
+ <!--![Bottom of pokeball](https://i.ibb.co/d7LhqFd/bottom.jpg) -->
+
 </div>
 <!-- <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br> -->
 
-<div align='center'>
- 
-![](https://komarev.com/ghpvc/?username=Vasillena)
 
-</div>
 <!--<div align='center'>
 <a href="https://ibb.co/Lv5n7WQ"><img src="https://i.ibb.co/qx5kQf0/Work-Wallpaper-Wallpaper-Safari-copy.jpg" alt="Work-Wallpaper-Wallpaper-Safari-copy" border="0" width="1000"></a>
 </div>-->
