@@ -46,7 +46,7 @@
  📫 How to reach me **vassito@abv.bg**
 
 </div>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Familiar with:</h3>
 <p align="center">
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
@@ -56,15 +56,15 @@
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></code>
 
 <br>
 
 <h4 align="center">In the Making</h4>
 <code><img height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/354078/mobx.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></code>
