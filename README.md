@@ -90,6 +90,9 @@ JS Back-End: https://softuni.bg/certificates/details/175210/c225fd62
 HTML & CSS: https://softuni.bg/certificates/details/174720/6adad1fd
 <br>
 React: https://softuni.bg/certificates/details/197981/eeb3b0f0
+<br>
+Next.js: http://ude.my/UC-d79753d9-aa50-4ade-b547-2d2315040d2a
+
 
 🧝‍♀️ CV
 
