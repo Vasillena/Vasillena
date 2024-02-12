@@ -93,7 +93,7 @@ React: https://softuni.bg/certificates/details/197981/eeb3b0f0
 <br>
 Next.js: http://ude.my/UC-d79753d9-aa50-4ade-b547-2d2315040d2a
 <br>
-MySQL:
+MySQL: https://softuni.bg/certificates/details/202787/84ce9dc8
 
 
 🧝‍♀️ CV
