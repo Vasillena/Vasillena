@@ -98,7 +98,7 @@ MySQL: https://softuni.bg/certificates/details/202787/84ce9dc8
 
 🧝‍♀️ CV
 
-https://drive.google.com/file/d/1fLHiYE5RoYeTsLyQ5SlNxf334gjRQ3-Q/view?usp=sharing
+https://drive.google.com/file/d/1yIZ4eJr51QuUs_ovQoKuN6Xux8sbsiXk/view?usp=sharing
 <br>
 
  <div align='center'>
