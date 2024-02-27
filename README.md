@@ -31,8 +31,6 @@
 <br>
 <div align='center'>
 
- 💻 Coding Wizard in the Making
-
  🌱 Eco Living Enthusiast
 
  🎓 Master of Laws
