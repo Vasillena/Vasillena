@@ -2,7 +2,7 @@
 
 <!-- align="center">Hi 🐱, I'm Lena -->
 <p align="center">
-<a href="https://www.facebook.com/vasilena.yoneva" target="blank"><img align="center" alt="Vasilena's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
+<a href="https://www.facebook.com/vasilena.yoneva" target="blank"><img align="center" alt="Vasilena's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" /></a>
 <a href="https://instagram.com/____vasilena____" target="blank"><img align="center" alt="Vasilena's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
 <a href="https://www.linkedin.com/in/vasilena-yoneva-94a475265/" target="blank"><img align="center" alt="Vasilena's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
 </p>
