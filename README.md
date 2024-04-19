@@ -63,7 +63,7 @@
 <br>
 
 <h4 align="center">In the Making</h4>
-<code><img height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
+<!-- <code><img height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.svg"></code> -->
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"></code>
