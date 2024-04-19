@@ -95,10 +95,9 @@ Next.js: http://ude.my/UC-d79753d9-aa50-4ade-b547-2d2315040d2a
 MySQL: https://softuni.bg/certificates/details/202787/84ce9dc8
 
 
-🧝‍♀️ CV
+<!--🧝‍♀️ CV
 
-https://drive.google.com/file/d/1yIZ4eJr51QuUs_ovQoKuN6Xux8sbsiXk/view?usp=sharing
-<br>
+https://drive.google.com/file/d/1yIZ4eJr51QuUs_ovQoKuN6Xux8sbsiXk/view?usp=sharing-->
 
  <div align='center'>
  
