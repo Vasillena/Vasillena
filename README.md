@@ -95,6 +95,10 @@ Next.js: http://ude.my/UC-d79753d9-aa50-4ade-b547-2d2315040d2a
 MySQL: https://softuni.bg/certificates/details/202787/84ce9dc8
 <br>
 Design Basics: https://creative.softuni.bg/certificates/details/47129/f1a50f1a
+<br>
+UX Design:
+<br>
+UI Design:
 
 <!--🧝‍♀️ CV
 
