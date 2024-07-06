@@ -72,6 +72,8 @@
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://asset.brandfetch.io/idZ_aiFAYa/idx0zotd8Y.png"></code>
+<code><img height="30" width="30" src="https://svgshare.com/i/17xQ.svg"></code>
+
 
 </p>
 
