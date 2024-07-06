@@ -42,7 +42,7 @@
 
  🎮 I don't need to get a life. I'm a gamer I have lots of lives
 
- 📫 How to reach me **vassito@abv.bg**
+ 📫 How to reach me **vasilena_yoneva@abv.bg**
 
 </div>
 <h3 align="center">Familiar with:</h3>
