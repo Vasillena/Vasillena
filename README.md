@@ -101,7 +101,7 @@ MySQL: https://softuni.bg/certificates/details/202787/84ce9dc8
 <br>
 Design Basics: https://creative.softuni.bg/certificates/details/47129/f1a50f1a
 <br>
-UX Design:
+UX Design: https://creative.softuni.bg/certificates/details/49360/984f48cf
 <br>
 UI Design:
 
