@@ -103,7 +103,9 @@ Design Basics: https://creative.softuni.bg/certificates/details/47129/f1a50f1a
 <br>
 UX Design: https://creative.softuni.bg/certificates/details/49360/984f48cf
 <br>
-UI Design:
+UI Design: https://creative.softuni.bg/certificates/details/50224/d81fea74
+<br>
+Photoshop:
 
 <!--🧝‍♀️ CV
 
