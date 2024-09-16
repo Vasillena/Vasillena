@@ -108,7 +108,8 @@ UX Design: https://creative.softuni.bg/certificates/details/49360/984f48cf
 <br>
 UI Design: https://creative.softuni.bg/certificates/details/50224/d81fea74
 <br>
-Photoshop:
+Photoshop: https://creative.softuni.bg/certificates/details/50986/c07de985
+<br>
 
 <!--🧝‍♀️ CV
 
