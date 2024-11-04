@@ -110,7 +110,7 @@ UI Design: https://creative.softuni.bg/certificates/details/50224/d81fea74
 <br>
 Photoshop: https://creative.softuni.bg/certificates/details/50986/c07de985
 <br>
-Illustrator:
+Illustrator: https://creative.softuni.bg/certificates/details/52112/3cabda94
 
 <!--🧝‍♀️ CV
 
