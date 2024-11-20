@@ -72,6 +72,7 @@
 <!-- <code><img height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.svg"></code> -->
 
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"></code>
+<code><img height="30" width="30" src="https://i.ibb.co/hdQc1rF/java-4-logo-svgrepo-com.png"></code>
 <code><img height="30" width="30" src="https://asset.brandfetch.io/idZ_aiFAYa/idx0zotd8Y.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg"></code>
 
