@@ -60,11 +60,11 @@
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
-<code><img height="30" width="30" src="https://svgshare.com/i/19DC.svg"></code>
 <code><img height="30" width="30" src="https://i.ibb.co/8YvhsbF/icon-512x512.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></code>
+<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"></code>
 
 <br>
 
@@ -72,9 +72,8 @@
 <!-- <code><img height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.svg"></code> -->
 
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"></code>
-<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://asset.brandfetch.io/idZ_aiFAYa/idx0zotd8Y.png"></code>
-<code><img height="30" width="30" src="https://svgshare.com/i/17xQ.svg"></code>
+<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg"></code>
 
 
 
@@ -124,7 +123,7 @@ https://drive.google.com/file/d/1yIZ4eJr51QuUs_ovQoKuN6Xux8sbsiXk/view?usp=shari
 
  <div align='center'>
  
-<img height="200" width="200" src="https://svgshare.com/i/19sp.svg">
+<img height="200" width="200" src="https://i.ibb.co/4KDvdfx/Logomark-White-2x.png">
 
 </div>
  
