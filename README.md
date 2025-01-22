@@ -114,6 +114,8 @@ Photoshop: https://creative.softuni.bg/certificates/details/50986/c07de985
 Illustrator: https://creative.softuni.bg/certificates/details/52112/3cabda94
 <br>
 After Effects: https://creative.softuni.bg/certificates/details/53201/f6be0e2a
+<br>
+InDesign: https://creative.softuni.bg/certificates/details/53611/c7967b81
 
 <!--🧝‍♀️ CV
 
