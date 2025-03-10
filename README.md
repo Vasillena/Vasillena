@@ -116,6 +116,8 @@ Illustrator: https://creative.softuni.bg/certificates/details/52112/3cabda94
 After Effects: https://creative.softuni.bg/certificates/details/53201/f6be0e2a
 <br>
 InDesign: https://creative.softuni.bg/certificates/details/53611/c7967b81
+<br>
+UI Design Systems: https://creative.softuni.bg/certificates/details/54787/3c835d78
 
 <!--🧝‍♀️ CV
 
