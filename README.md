@@ -118,6 +118,8 @@ After Effects: https://creative.softuni.bg/certificates/details/53201/f6be0e2a
 InDesign: https://creative.softuni.bg/certificates/details/53611/c7967b81
 <br>
 UI Design Systems: https://creative.softuni.bg/certificates/details/54787/3c835d78
+<br>
+UI Design Implementation: https://creative.softuni.bg/certificates/details/56289/7b419ef7
 
 <!--🧝‍♀️ CV
 
