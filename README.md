@@ -120,6 +120,8 @@ InDesign: https://creative.softuni.bg/certificates/details/53611/c7967b81
 UI Design Systems: https://creative.softuni.bg/certificates/details/54787/3c835d78
 <br>
 UI Design Implementation: https://creative.softuni.bg/certificates/details/56289/7b419ef7
+<br>
+3-day Product Design Bootcamp: https://drive.google.com/file/d/1tGYjy2wHPJAHrIAVdehnzahbYpveoyK-/view?usp=drive_link
 
 <!--🧝‍♀️ CV
 
