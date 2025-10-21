@@ -26,7 +26,7 @@
  <summary>Open profile</summary>
 <h3 align="center">Web Developer</h3>
 <div align='center'>
- https://www.vasilena.tech/
+ https://www.vasilena.space/
 <!-- <img align="center" alt="Coding" width="300" src="https://i.ibb.co/f9jmJpt/output-onlinegiftools.gif">
 <br> -->
 </div>
