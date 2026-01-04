@@ -52,11 +52,13 @@
  <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="30" width="30" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
+ 
+<!-- <code><img height="30" width="30" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> -->
+
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></code>
@@ -73,8 +75,8 @@
 <h4 align="center">In the Making</h4>
 <!-- <code><img height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.svg"></code> -->
 
-<code><img height="30" width="30" src="https://i.ibb.co/hdQc1rF/java-4-logo-svgrepo-com.png"></code>
-<code><img height="30" width="30" src="https://asset.brandfetch.io/idZ_aiFAYa/idx0zotd8Y.png"></code>
+<!-- <code><img height="30" width="30" src="https://i.ibb.co/hdQc1rF/java-4-logo-svgrepo-com.png"></code>
+<code><img height="30" width="30" src="https://asset.brandfetch.io/idZ_aiFAYa/idx0zotd8Y.png"></code> -->
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg"></code>
 
 
