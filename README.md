@@ -4,16 +4,17 @@
 <p align="center">
 <a href="https://www.facebook.com/vasilena.yoneva" target="blank"><img align="center" alt="Vasilena's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" /></a>
 <a href="https://instagram.com/____vasilena____" target="blank"><img align="center" alt="Vasilena's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
- <a href="https://www.behance.net/vasilenayoneva" target="blank"><img align="center" alt="Vasilena's Linkdein" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Font_Awesome_5_brands_behance-square.svg" /></a>
+ <a href="https://www.behance.net/vasilenayoneva" target="blank"><img align="center" alt="Vasilena's Behance" width="22px" src="https://github.com/user-attachments/assets/d1c12b2e-74b4-4bfa-8e6c-2ce245c61abe" /></a>
 <a href="https://www.linkedin.com/in/vasilena-yoneva/" target="blank"><img align="center" alt="Vasilena's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
 </p>
 
 <div align='center' >
-<img src="https://i.ibb.co/PYfjr7f/Make-your-README-2.png" alt="Banner image">
+<!-- <img src="https://i.ibb.co/PYfjr7f/Make-your-README-2.png" alt="Banner image"> -->
+ <img src="https://github.com/user-attachments/assets/38beb19a-5da8-42c6-9f36-1c9c844dcaf5" alt="Banner image">
  </div>
-<br>
+<!-- <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<br> -->
 
 
 <!-- <br>
@@ -68,7 +69,7 @@
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"></code>
-<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"></code>
+<!-- <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"></code> -->
 
 <br>
 
@@ -77,7 +78,7 @@
 
 <!-- <code><img height="30" width="30" src="https://i.ibb.co/hdQc1rF/java-4-logo-svgrepo-com.png"></code>
 <code><img height="30" width="30" src="https://asset.brandfetch.io/idZ_aiFAYa/idx0zotd8Y.png"></code> -->
-<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg"></code>
+<code><img height="30" width="30" src="https://github.com/user-attachments/assets/50898ab6-0ab1-49fb-8557-c66176e4ebe8"></code>
 
 
 
@@ -137,7 +138,7 @@ https://drive.google.com/file/d/1yIZ4eJr51QuUs_ovQoKuN6Xux8sbsiXk/view?usp=shari
 
  <div align='center'>
  
-<img height="200" width="200" src="https://i.ibb.co/4KDvdfx/Logomark-White-2x.png">
+<img height="200" width="200" src="https://github.com/user-attachments/assets/dfc2e569-04b6-4661-bbeb-ca008cda4b27">
 
 </div>
  
